@@ -28,7 +28,7 @@ The dataset contains historical loan application records with the following feat
 - Distribution analysis and correlation checks
 
 ### 🔹 Model Building
-- Trained a **Random Forest Classifier**  
+- Trained a **Support Vector Classifier**  
 - Achieved **83% accuracy** and strong precision on validation data  
 - Evaluated using confusion matrix, precision, recall, and F1-score
 
